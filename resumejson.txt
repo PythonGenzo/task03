@@ -1,0 +1,44 @@
+// 2) Create your own resume data in JSON format
+
+let resume = [
+    {
+        "name":"Prasanth M",
+        "father's name":"muthu samy P", 
+        "age":[
+            "26"
+        ], 
+        "DOB":[
+            "10-10-1994"
+        ],
+        "city":"coimbatore",
+        "state":"tamil nadu",
+        "qualification":"diplamo in mechatronics",
+        "year": [
+            "2011",
+            "2014"
+        ],
+        "marks":[
+            "10th"="92%",
+            "diplamo"="68%"
+        ],
+        "computer proficiency":[
+            "platforms"="windows 8","windows 10",
+            "pakages"="MS Office","MS Excel","MS Poer point"
+        ],
+        "hobbies":[
+            "cricket",
+            "volley ball",
+            "tennis",
+            "reading",
+            "riding",
+        ],
+        "extra curricular activities":[
+            "participated in NCC",
+            "participated in NSS",
+            "NCC B & C certificate holder",
+            "program executive in department"
+        ],
+        "skills": "Quick learning ability, excellent interpersonal and communication skills, stage host, oration and presentation skills, positive attitude, highly versatile and adaptable",
+        "declaration": "I, Prasanth M , do here by confirm that the information given above is true to the best of my knowledge"
+}
+]
